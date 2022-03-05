@@ -1,0 +1,21 @@
+header{
+ 
+    h1{
+        text-align: center;
+        margin: 40px;
+        font-size: 40px;
+        color: white;
+    }
+    .containerHeader{
+        display: flex;
+        justify-content: center;
+    }
+    .imageContainer{
+        height: 200px;
+        width: 100px;
+        img{
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+}
